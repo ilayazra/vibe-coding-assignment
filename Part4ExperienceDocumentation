@@ -1,0 +1,19 @@
+# Part 4: Experience Documentation
+
+## Tool Selection Justification
+
+I chose **Cursor** as the vibe coding tool for this project. I picked it because it is easy to use, works directly in the IDE, and can understand the whole project. I wanted a tool that could help me build a working Todo List app quickly and guide me when I was unsure about the code structure.
+
+## Development Process
+
+I started by opening Cursor and creating a new project. I gave it a prompt to create a simple Todo List app with the features: add tasks, delete tasks, mark tasks as completed, and save tasks using localStorage. Cursor generated the initial HTML, CSS, and JavaScript files.
+
+I tested the app and made small changes, like adjusting styles and improving button behavior. It took about 2–3 iterations to have a fully working version. The AI suggestions were very helpful, especially for the JavaScript logic.
+
+## Challenges and Solutions
+
+One challenge was making the delete button work correctly without affecting the completed status of other tasks. Cursor suggested a solution with event listeners and correct indexing, which worked after slight adjustments. I also had to manually improve some CSS styles to make the app look nicer.
+
+## Reflection
+
+Vibe coding was really helpful. It made coding faster and guided me through creating the app. I was surprised how quickly it could generate working JavaScript logic. It changed my workflow by letting me focus more on project ideas instead of typing every line of code. I would definitely use this tool for future projects, especially when learning new concepts or building small apps quickly. I think this technology will make software development faster and more accessible for beginners and students.
